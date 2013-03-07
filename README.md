@@ -5,6 +5,8 @@ This project contains examples of using EasyAuth.
 
 ## WebApp
 
-The WebApp example is a bog standard MVC4 website. It EasyAuth's MVC attributes to provide security to a basic web application. It uses EntityUserStore as the data storage provider.
+The WebApp example is a bog standard MVC4 website. 
 
-With this example you can create users, list users, log in and out with user accounts, and use session only or cookie based persistant authentication.
+It uses EasyAuth's MVC attributes to provide security to a basic web application. It uses EntityUserStore as the data storage provider.
+
+With this example you can create users, list users, log in and out with user accounts.
